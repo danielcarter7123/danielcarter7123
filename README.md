@@ -1,8 +1,8 @@
 # Hello, I'm Daniel
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/dan-carter-0b28a3261"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent master's graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent master's graduate with a profound interest in technology and a dedication to solving the most recent cybersecurity problems.
 
 ## Objective
 
