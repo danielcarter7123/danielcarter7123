@@ -1,5 +1,5 @@
 # Hello, I'm Daniel
-<a href="www.linkedin.com/in/dan-carter-0b28a3261"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <a href="https://www.linkedin.com/in/dan-carter-0b28a3261" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
