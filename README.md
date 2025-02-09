@@ -51,6 +51,12 @@ My post-grad journey has led me to develop a passion for cybersecurity, and I am
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
+## Certifications
+<div>
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-33AADD?&style=for-the-badge&logo=ISC2&logoColor=white" />
+</div>
+
 ## Projects
 - Detection Lab
 - SOC Automation Project
