@@ -22,13 +22,28 @@ My post-grad journey has led me to develop a passion for cybersecurity, and I am
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## Skills  
+
+| Skill                                         | Associated Project                      |
+|-----------------------------------------------|-----------------------------------------|
+| SIEM Implementation and Log Analysis          | [SOC Alerts & Active Directory Project](#) |
+| Network Traffic Monitoring and Attack Detection | [SOC Alerts & Active Directory Project](#) |
+| Security Automation with Shuffle SOAR         | [SOC Automation Lab](#) |
+| Incident Response Planning and Execution      | [SOC Automation Lab](#) |
+| Case Management with TheHive                  | [SOC Automation Lab](#) |
+| Scripting and Automation for Threat Mitigation | [SOC Automation Lab](#) |
+| Active Directory Security and Hardening       | [SOC Alerts & Active Directory Project](#) |
+
+
 
 ## Tools
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-00A1DE?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NetworkMiner-5A3E85?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys-DA291C?&style=for-the-badge&logo=Qualys&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Maltego-1E1E1E?&style=for-the-badge&logo=Maltego&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -39,9 +54,8 @@ My post-grad journey has led me to develop a passion for cybersecurity, and I am
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-5A3E85?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ## Certifications
@@ -51,5 +65,5 @@ My post-grad journey has led me to develop a passion for cybersecurity, and I am
 </div>
 
 ## Projects
-- Detection Lab
+- SOC Alerts & Active Directory Lab
 - SOC Automation Project
