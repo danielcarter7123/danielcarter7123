@@ -33,6 +33,17 @@ My post-grad journey has led me to develop a passion for cybersecurity, and I am
 | Case Management with TheHive                  | [SOC Automation Lab](#) |
 | Scripting and Automation for Threat Mitigation | [SOC Automation Lab](#) |
 | Active Directory Security and Hardening       | [SOC Alerts & Active Directory Project](#) |
+## Skills  
+
+| Skill                                         | Associated Project                      |
+|-----------------------------------------------|-----------------------------------------|
+| SIEM Implementation and Log Analysis          | [SOC Alerts & Active Directory Project](https://github.com/danielcarter7123/SOC-Alerts-Active-Directory-Project) |
+| Network Traffic Monitoring and Attack Detection | [SOC Alerts & Active Directory Project](https://github.com/danielcarter7123/SOC-Alerts-Active-Directory-Project) |
+| Security Automation with Shuffle SOAR         | [SOC Automation Project](https://github.com/danielcarter7123/SOC-Automation-Project) |
+| Incident Response Planning and Execution      | [SOC Automation Project](https://github.com/danielcarter7123/SOC-Automation-Project) |
+| Case Management with TheHive                  | [SOC Automation Project](https://github.com/danielcarter7123/SOC-Automation-Project) |
+| Scripting and Automation for Threat Mitigation | [SOC Automation Project](https://github.com/danielcarter7123/SOC-Automation-Project) |
+| Active Directory Security and Hardening       | [SOC Alerts & Active Directory Project](https://github.com/danielcarter7123/SOC-Alerts-Active-Directory-Project) |
 
 
 
