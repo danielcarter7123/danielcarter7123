@@ -11,28 +11,7 @@ I am a recent master's graduate with a profound interest in technology and a ded
 
 My post-grad journey has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-## Skills  
-
-| Skill                                         | Associated Project                      |
-|-----------------------------------------------|-----------------------------------------|
-| SIEM Implementation and Log Analysis          | [SOC Alerts & Active Directory Project](#) |
-| Network Traffic Monitoring and Attack Detection | [SOC Alerts & Active Directory Project](#) |
-| Security Automation with Shuffle SOAR         | [SOC Automation Lab](#) |
-| Incident Response Planning and Execution      | [SOC Automation Lab](#) |
-| Case Management with TheHive                  | [SOC Automation Lab](#) |
-| Scripting and Automation for Threat Mitigation | [SOC Automation Lab](#) |
-| Active Directory Security and Hardening       | [SOC Alerts & Active Directory Project](#) |
 ## Skills  
 
 | Skill                                         | Associated Project                      |
@@ -44,7 +23,6 @@ My post-grad journey has led me to develop a passion for cybersecurity, and I am
 | Case Management with TheHive                  | [SOC Automation Project](https://github.com/danielcarter7123/SOC-Automation-Project) |
 | Scripting and Automation for Threat Mitigation | [SOC Automation Project](https://github.com/danielcarter7123/SOC-Automation-Project) |
 | Active Directory Security and Hardening       | [SOC Alerts & Active Directory Project](https://github.com/danielcarter7123/SOC-Alerts-Active-Directory-Project) |
-
 
 
 ## Tools
