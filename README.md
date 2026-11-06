@@ -1,58 +1,22 @@
-# Hello, I'm Daniel
+## Hi, I'm Dan
 
-<a href="https://www.linkedin.com/in/dan-carter-0b28a3261" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+I build software at **CGM Consulting Group**, where we work with the power generation and utilities industry.
 
+My background is in cybersecurity, and these days I'm a full-stack developer. I build business applications where getting the details right matters: who can approve what, what gets logged, and making sure the numbers always reconcile.
 
-I am a recent master's graduate with a profound interest in technology and a dedication to solving the most recent cybersecurity problems.
+### What I work on
 
-## Objective
+- Full-stack web apps in TypeScript, from the database up to the UI
+- Role-based access, approval workflows and audit trails
+- Data integrity: making sure records can't be quietly changed after the fact
+- Single sign-on and security-minded design
+- Automated testing (unit, integration and end-to-end)
+- AI-assisted development with Claude Code
 
-My post-grad journey has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+### Tools I use
 
+TypeScript · React · Next.js · Node.js · PostgreSQL · Supabase · Vercel · Playwright · Microsoft Entra ID
 
-## Skills  
+### A note on this profile
 
-| Skill                                         | Associated Project                      |
-|-----------------------------------------------|-----------------------------------------|
-| SIEM Implementation and Log Analysis          | [SOC Alerts & Active Directory Project](https://github.com/danielcarter7123/SOC-Alerts-Active-Directory-Project) |
-| Network Traffic Monitoring and Attack Detection | [SOC Alerts & Active Directory Project](https://github.com/danielcarter7123/SOC-Alerts-Active-Directory-Project) |
-| Security Automation with Shuffle SOAR         | [SOC Automation Project](https://github.com/danielcarter7123/SOC-Automation-Project) |
-| Incident Response Planning and Execution      | [SOC Automation Project](https://github.com/danielcarter7123/SOC-Automation-Project) |
-| Case Management with TheHive                  | [SOC Automation Project](https://github.com/danielcarter7123/SOC-Automation-Project) |
-| Scripting and Automation for Threat Mitigation | [SOC Automation Project](https://github.com/danielcarter7123/SOC-Automation-Project) |
-| Active Directory Security and Hardening       | [SOC Alerts & Active Directory Project](https://github.com/danielcarter7123/SOC-Alerts-Active-Directory-Project) |
-
-
-## Tools
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-00A1DE?&style=for-the-badge&logo=Nessus&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NetworkMiner-5A3E85?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Qualys-DA291C?&style=for-the-badge&logo=Qualys&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Maltego-1E1E1E?&style=for-the-badge&logo=Maltego&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-5A3E85?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-</div>
-
-## Certifications
-<div>
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-33AADD?&style=for-the-badge&logo=ISC2&logoColor=white" />
-</div>
-
-## Projects
-- SOC Alerts & Active Directory Lab
-- SOC Automation Project
+Most of what I build is private work for CGM and its clients, so you won't see much of it here. My older public repos are cybersecurity home labs from before I moved into development.
